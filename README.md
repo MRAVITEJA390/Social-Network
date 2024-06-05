@@ -13,6 +13,6 @@ Database: SQLite3
 3.install the dependencies using `pip3 install -r requirements.txt`
 
 #### Run Server
-run the command `python3 manage.py runserver <port_no>`\
+run the command `python3 manage.py runserver <port_no>`
 
 
