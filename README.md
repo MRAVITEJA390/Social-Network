@@ -15,4 +15,7 @@ Database: SQLite3
 #### Run Server
 run the command `python3 manage.py runserver <port_no>`
 
+#### Postman Collection
+postman api collection can be found inside `postman_collection` directory
+
 
